@@ -7,11 +7,14 @@ body {
     font-family: 'Raleway';
     font-weight: 800;
     font-size: 18px;
-    line-height: 1.17; /* 21/18 */
+    line-height: 1.17;    /* 21/18 */
     color: #2E2F42;
     text-decoration: none;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
 
 }
-.header-logo span{
+
+.header-logo span {
     color: #4D5AE5;
-} 
+}
