@@ -46,7 +46,7 @@ body {
 }
 
 .hero {
-    color: #2E2F42;
+    background-color: #2E2F42;
 }
 
 .hero-title {
@@ -58,5 +58,5 @@ body {
     color: #FFFFFF;
 }
 .hero-btn{
-    
+
 }
