@@ -14,7 +14,7 @@ body {
     list-style-type: none;
 }
 
-.header-logo {
+.link-logo {
     font-family: 'Raleway';
     font-weight: 800;
     font-size: 18px;
@@ -114,4 +114,22 @@ body {
     letter-spacing: 0.02em;
     color: #434455;
 
+}
+
+.team{
+    background-color: #F4F4FD;;
+}
+
+.text-foot {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    /* or 150% */
+    letter-spacing: 0.02em;
+    color: #F4F4FD;
+
+}
+
+footer{
+    background-color: #2E2F42;;
 }
