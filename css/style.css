@@ -51,17 +51,18 @@ body {
 .header-address {
     font-weight: 400;
     font-size: 16px;
-    line-height: 1.5;/* identical to box height, or 150% */
+    line-height: 1.5;
+    /* identical to box height, or 150% */
     letter-spacing: 0.02em;
     text-decoration: none;
     font-style: normal;
 }
 
 .address-link:active,
-.header-list-link:active
-{
+.header-list-link:active {
     color: #404BBF;
 }
+
 /*-----------------hero----------------*/
 .hero {
     background-color: #2E2F42;
@@ -87,10 +88,35 @@ body {
     letter-spacing: 0.04em;
     font-weight: 500;
     font-size: 16px;
-    line-height: 1.5;/* identical to box height, or 150% */
+    line-height: 1.5;
+    /* identical to box height, or 150% */
 }
 
 .hero-btn:hover,
 .hero-btn:focus {
     background-color: #2E2F42;
+}
+
+.part-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    /* identical to box height, or 120% */
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.part-text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    /* or 150% */
+    letter-spacing: 0.02em;
+    color: #434455;
+
+}
+
+.team-item{
+    text-align: center;
+    
 }
