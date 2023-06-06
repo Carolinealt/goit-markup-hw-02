@@ -26,7 +26,7 @@ body {
 
 }
 
-.linl-logo span {
+.link-logo span {
     color: #4D5AE5;
 }
 
@@ -115,7 +115,7 @@ body {
     color: #434455;
 
 }
-
+/*  ---------------team-----------------------  */
 .team{
     background-color: #F4F4FD;;
 }
@@ -131,5 +131,5 @@ body {
 }
 
 footer{
-    background-color: #2E2F42;;
+    background-color: #2E2F42;
 }
