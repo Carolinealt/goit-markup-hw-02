@@ -51,13 +51,18 @@ body {
 .header-address {
     font-weight: 400;
     font-size: 16px;
-    line-height: 1.5;
-    /* identical to box height, or 150% */
+    line-height: 1.5;/* identical to box height, or 150% */
     letter-spacing: 0.02em;
     text-decoration: none;
     font-style: normal;
 }
 
+.address-link:active,
+.header-list-link:active
+{
+    color: #404BBF;
+}
+/*-----------------hero----------------*/
 .hero {
     background-color: #2E2F42;
 }
