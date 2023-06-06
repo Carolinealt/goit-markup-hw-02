@@ -4,14 +4,14 @@ body {
 
 
 }
-.link{
+
+.link {
     text-decoration: none;
     color: #2E2F42
-    
 }
 
-.list{
-    list-style: none;
+.list {
+    list-style-type: none;
 }
 
 .header-logo {
@@ -38,12 +38,13 @@ body {
 .header-list-item {
     font-weight: 500;
     font-size: 16px;
-    line-height: 1.5;    /* identical to box height, or 150% */
+    line-height: 1.5;
+    /* identical to box height, or 150% */
     letter-spacing: 0.02em;
 
 }
 
-.header-list-link{
+.header-list-link {
     color: #2E2F42;
 }
 
@@ -63,11 +64,24 @@ body {
 .hero-title {
     font-weight: 700;
     font-size: 56px;
-    line-height: 1.07;/* or 107% */
+    line-height: 1.07;
+    /* or 107% */
     text-align: center;
     letter-spacing: 0.02em;
     color: #FFFFFF;
 }
-.hero-btn{
 
+.hero-btn {
+    background: #4D5AE5;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    color: #FFFFFF;
+    align-items: center;
+    letter-spacing: 0.04em;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;/* identical to box height, or 150% */
+}
+.hero-btn:hover, 
+.hero-btn:focus{
+    background-color: #4D5AE5;
 }
