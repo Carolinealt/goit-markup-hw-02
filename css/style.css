@@ -55,6 +55,7 @@ body {
     /* identical to box height, or 150% */
     letter-spacing: 0.02em;
     text-decoration: none;
+    font-style: normal;
 }
 
 .hero {
