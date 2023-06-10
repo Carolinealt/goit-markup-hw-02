@@ -1,7 +1,7 @@
 :root {
     --background--main-color: #FFFFFF;
     --color-brand: #2E2F42;
-    --color-text:  #434455;
+    --color-text: #434455;
     --color-logo: #4d5ae5;
 }
 
@@ -30,14 +30,13 @@ body {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--color-logo)
-
 }
 
 .sp-logo-head {
     color: var(--color-brand);
 }
 
-.sp-logo-foot{
+.sp-logo-foot {
     color: #F4F4FD;
     font-family: "Raleway", sans-serif;
 }
@@ -62,8 +61,7 @@ body {
 
 .header-list-link:hover,
 .address-link:hover,
-.header-list-link:focus
-.address-link:focus{
+.header-list-link:focus .address-link:focus {
     color: #404bbf;
 }
 
@@ -118,7 +116,7 @@ body {
     background-color: #404BBF;
 }
 
-.title-section{
+.title-section {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -151,10 +149,10 @@ body {
 /*  ---------------team-----------------------  */
 .team {
     background-color: #F4F4FD;
-    
+
 }
 
-.team-item{
+.team-item {
     background-color: #FFFFFF;
 }
 
