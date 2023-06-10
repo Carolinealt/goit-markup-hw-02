@@ -62,18 +62,17 @@ body {
 
 .header-list-link:hover,
 .address-link:hover,
-.header-list-link:focus
+.header-list-link:focus,
 .address-link:focus{
     color: #404bbf;
 }
 
-.header-address {
+.address-link{
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     /* identical to box height, or 150% */
     letter-spacing: 0.02em;
-    text-decoration: none;
     font-style: normal;
     color: var(--color-text);
 }
@@ -182,6 +181,7 @@ body {
 }
 
 .proj-btn {
+    font-family: "Roboto", sans-serif;
     background: #F4F4FD;
     border: 1px solid #E7E9FC;
     font-weight: 500;
