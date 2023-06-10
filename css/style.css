@@ -29,16 +29,17 @@ body {
     /* 21/18 */
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    color: var(--color-logo)
 
 }
 
-.link-logo span {
+.sp-logo-head {
     color: var(--color-brand);
 }
 
-.logo-foot {
+.sp-logo-foot{
     color: #F4F4FD;
-    font-family: "Raleway", sans-serif
+    font-family: "Raleway", sans-serif;
 }
 
 .header-list {
